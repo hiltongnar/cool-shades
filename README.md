@@ -18,6 +18,6 @@ The new product, Rock-N-Stroll, are a pair of Bluetooth Bone Conduction Sunglass
 ## OBJECTIVES
 
 1. Educate customers on bone-conductive technology
-1. 2 Inform customers about the sunglasses specifications
+1. Inform customers about the sunglasses specifications
 1. Measure engagement on the website
 1. Capture customer information
