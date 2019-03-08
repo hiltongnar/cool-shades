@@ -1,2 +1,4 @@
-html: 0;
+html,
 body {
+  background-color: lightgray;
+}
