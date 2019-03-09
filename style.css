@@ -1,8 +1,31 @@
 html,
 body {
   background-color: lightgray;
+  margin: 0;
+  padding: 0;
+  height: 100%;
 }
 .btn {
   background-color: red;
   color: white;
+}
+.background-image {
+    padding-top: 25px;
+    background-image: url("images/hero.jpg");
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+
+}
+header .container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding 0 15px;
+}
+.navbar-brand > img {
+  display: block;
+  margin: 0 0 5px 0;
 }
