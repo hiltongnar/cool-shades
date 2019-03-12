@@ -29,3 +29,26 @@ header .container {
   display: block;
   margin: 0 0 5px 0;
 }
+.navbar-brand--sublogo {
+  color: black;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  }
+
+
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+container .section-1 {
+  background-color: white;
+
+}
