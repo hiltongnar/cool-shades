@@ -57,7 +57,7 @@ header .container {
   display: block;
 }
 
-#style-products {
+#desktop-products {
   display: none
 }
 
@@ -67,7 +67,7 @@ header .container {
     display: none;
   }
 
-  #style-products {
+  #desktop-products {
     display: block
   }
 
