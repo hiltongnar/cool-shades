@@ -53,7 +53,7 @@ header .container {
 }
 /* responsive */
 
-#mobile-products {
+#mobile-products-container {
   display: block;
 }
 
@@ -63,7 +63,7 @@ header .container {
 
 @media (min-width: 768px) {
 
-  #mobile-products {
+  #mobile-products-container {
     display: none;
   }
 
@@ -71,4 +71,26 @@ header .container {
     display: block
   }
 
+}
+.circle {
+  border-radius: 100%;
+  background: red;
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+}
+.red {
+  background: red;
+}
+
+.green {
+  background: green;
+}
+
+.blue {
+  background: blue;
+}
+
+.black {
+  background: black;
 }
