@@ -51,6 +51,24 @@ header .container {
 .hero {
   padding-top: 125px;
 }
+
+.features {
+  color: white;
+}
+
+.shop {
+  color: white;
+}
+
+.support {
+  color: white;
+}
+
+.learnmore {
+  color: red;
+}
+
+
 /* responsive */
 
 #mobile-products-container {
