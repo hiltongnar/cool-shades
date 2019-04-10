@@ -68,7 +68,48 @@ header .container {
   color: red;
 }
 
+.features-background {
+  padding-top: 25px;
+  background-image: url("images/features-background.jpg");
+  background-size: cover;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.rock-n-roll-container {
+  text-align:right;
+}
 
+.rock-n-roll-container img{width:75%;}
+
+.rock-n-roll-sub-container {
+  float: right;
+}
+
+.rock-n-roll-sub-container p{
+  display: inline;
+  width: 40%;
+  font-style:italic;
+  font-size: 75%;
+}
+
+.footer-top {
+  margin-bottom: 3em;
+}
+
+.footer-bottom {
+  padding-bottom: 2em;
+}
+
+.bottom-links a{color:white;}
+.bottom-links a:nth-child(2) {
+  margin: 0 1em;
+}
+footer {
+  background-color: black;
+  padding-top: 5em;
+}
 /* responsive */
 
 #mobile-products-container {
